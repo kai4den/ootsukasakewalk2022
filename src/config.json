@@ -2,8 +2,8 @@
   "title": "大塚 sake walk 2022 マップ created PWAマップ",
   "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」で、大塚 sake walk 2022のマップを作りました。",
   "form_url": "",
-  "logo_image_url": "https://kai4den.github.io/ootsukasakewalk2022/osw2022_logo.svg",
-  "background_image_url": "https://kai4den.github.io/ootsukasakewalk2022/osw2022.jpg",
+  "logo_image_url": "https://kai4den.github.io/ootsukasakewalk2022/sake.svg",
+  "background_image_url": "https://kai4den.github.io/ootsukasakewalk2022/greenback.png",
   "primary_color": "#5B9B45",
   "orderby": "distance"
 }
